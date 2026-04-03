@@ -1,7 +1,4 @@
-# <p>
-                                         ObligoTrack  -  A B2B SaaS PWA Software - By Abhinav Tiwari 
- 
-<img width="1024" height="1024" alt="Obligotrack - Logo" src="https://github.com/user-attachments/assets/abbe345b-0669-4825-b380-23dbffb55e91" />
+# ObligoTrack
 
 **Never miss a compliance obligation again.**
 
@@ -253,4 +250,4 @@ GET    /api/v1/reports/export/excel
 
 ## License
 
-Proprietary — All rights reserved. ObligoTrack © 2026
+Proprietary — All rights reserved. ObligoTrack © 2025
