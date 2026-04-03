@@ -1,4 +1,5 @@
 # ObligoTrack
+<img width="1024" height="1024" alt="Obligotrack - Logo" src="https://github.com/user-attachments/assets/d6ad86c4-c788-4214-9233-450cd5d47dc8" />
 
 **Never miss a compliance obligation again.**
 
