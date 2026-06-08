@@ -113,6 +113,9 @@ User selects plan → POST /payments/razorpay/create-order
 
 **Fallback webhook:** If user closes browser before verify, the `payment.captured` webhook fires and activates subscription server-side.
 
+```
+Website Test - [ https://900832-09d893e6094d4ade853b4af1bf550954-v6-dev.dev.atoms.dev/auth/login ]
+```
 ---
 
 ### International Payments — Stripe
